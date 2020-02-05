@@ -1,6 +1,13 @@
 # **Media Server SetUp on Raspberry Pi4**
 
-[TOC]
+[<strong>Media Server SetUp on Raspberry Pi4</strong>](#media-server-setup-on-raspberry-pi4)
+
+   * [Dynamic DNS with Cloudflare](#dynamic-dns-with-cloudflare)
+* [Mount GDrive Units](#mount-gdrive-units)
+  * [Optional:](#optional)
+* [Mount USB HDD](#mount-usb-hdd)
+* [NGINX Reverse Proxy](#nginx-reverse-proxy)
+* [Optional Files](#optional-files)
 
 ------
 
