@@ -1,0 +1,15 @@
+<Config>
+  <LogLevel>Info</LogLevel>
+  <Port>7878</Port>
+  <BindAddress>*</BindAddress>
+  <SslPort>7878</SslPort>
+  <ApiKey>413ee2b833d74d8caf2b783f895ea6bc</ApiKey>
+  <AuthenticationMethod>Forms</AuthenticationMethod>
+  <Branch>develop</Branch>
+  <LaunchBrowser>True</LaunchBrowser>
+  <SslCertHash></SslCertHash>
+  <UpdateMechanism>BuiltIn</UpdateMechanism>
+  <UpdateAutomatically>True</UpdateAutomatically>
+  <UrlBase>/radarr/</UrlBase>
+  <EnableSsl>False</EnableSsl>
+</Config>
